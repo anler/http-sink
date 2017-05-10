@@ -1,0 +1,9 @@
+Usage:
+  http-sink [-H HOST] [-p PORT]
+
+Options:
+  -H HOST  Server host [default: 127.0.0.1]
+  -p PORT  Server port number [default: 3000]
+
+Options:
+  -h --help   Show this.

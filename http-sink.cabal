@@ -10,3 +10,13 @@ executable          http-sink
     extensions:     OverloadedStrings
     build-depends:  base   >= 4      && < 5
                   , scotty
+                  , docopt
+                  , doctest
+                  , wai
+                  , wai-extra
+                  , warp
+                  , http-types
+                  , data-default-class
+                  , text
+                  , attoparsec
+                  , time
